@@ -9,7 +9,7 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image:url('https://i0.hdslb.com/bfs/album/b769f62b2f0fc31cad67d1528601a8e1e63d0cc8.jpg');
+    background:url(../img/homepage.jpg);
   }
   ul {
     height: 0;
